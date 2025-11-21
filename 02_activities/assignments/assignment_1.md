@@ -18,6 +18,7 @@
 *	Apply general design principles to create accessible and equitable data visualizations
 * Use data visualization to tell a story
 
+
 ### Rubric:
 
 | Component          | Scoring                 | Requirement                                              |
